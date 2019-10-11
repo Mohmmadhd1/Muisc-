@@ -1,0 +1,6 @@
+﻿token= NjMyMDg4NDM0NDQ5NzExMTI1.XaCynw.rgmCsecfRt1VbnXMeWAJxnedQhA
+owner= 541002506084286467
+prefix= !
+game= Muisc
+stayinchannel=true اذا تريده ميطلع من الروم من تخلص الاغنية لاتغيره
+songinstatus=false اذا تريده يكتب بلبروفايل شنو مشتغل حطه true
